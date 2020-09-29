@@ -24,8 +24,9 @@ This step is so important to extract the trends and insights from the data
 * data analyst mostly are demanded in the health care,It services,consulting,computer hardware &software companies
 * data analyst mostly work in the IT sector and business services
 * data analyst is most demanded in CA and NY
-![GitHub Logo](/Salary-estimation/excel.png)
-![GitHub Logo](/Salary-estimation/type of ownership.png)
+![](/Salary-estimation/excel.png)
+
+![](/Salary-estimation/type of ownership.png)
 
 # Model Building and performance
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets(train set 80%,test set 20%)
