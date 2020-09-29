@@ -1,5 +1,5 @@
 # Salary-estimation
-#### This project estimate data analyst salaries to help them negotiate their income when they get a job(MAE=0.015K , MIN_SALARY:29K , MAX_SALARY: 101K)
+This project estimate data analyst salaries to help them negotiate their income when they get a job(MAE=0.015K , MIN_SALARY:29K , MAX_SALARY: 101K)
 * Scraped over 400 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, R, SQL,tableau,PowerBI, haddop & spark.
 * Optimized Linear, and Random Forest Regressors using GridsearchCV to reach the best model.
